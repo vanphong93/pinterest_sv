@@ -44,6 +44,11 @@ export default function HomePage() {
       <div className="container mx-auto row row-cols-3">
         {renderContent(data)}
       </div>
+      <h1>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste repellat
+        ullam ipsa molestiae. Voluptate odio veniam cum animi, consequatur
+        delectus.
+      </h1>
     </div>
   );
 }
